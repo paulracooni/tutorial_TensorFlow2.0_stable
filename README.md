@@ -31,7 +31,7 @@ This tutorial requires the following packages:
     - [Logistic regression](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/02.Basic_model/03.Logistic%20regression.ipynb)
     - [Polynomial fit scalar](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/02.Basic_model/04.Polynomial%20fit%20scalar.ipynb)
     - [tf.keras.Sequential and Model](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/02.Basic_model/05.tf.keras.Sequential%20and%20Model.ipynb)
-### [3. [Intermediate model](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/tree/master/notebooks/03.Intermediate_model)
+### [3. Intermediate model](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/tree/master/notebooks/03.Intermediate_model)
     - [Convolutinal Neural Network](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/03.Intermediate_model/01.Convolutinal%20Neural%20Network.ipynb)
     - [Convolutinal Neural Network using KerasAPI](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/03.Intermediate_model/02.Convolutinal%20Neural%20Network%20using%20KerasAPI.ipynb)
     - [Residual Network](https://github.com/TBGpauldev/TensorFlow2.0_stable_tutorial/blob/master/notebooks/03.Intermediate_model/03.Residual%20Network.ipynb)
